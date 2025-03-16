@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="logo11.jpg" alt="MemeFlux Logo" width="40%">
+</p>
+
+# MemeFlux
+
 # MemeFlux: Advanced AI Generative Models
 
 Welcome to **MemeFlux**, the next-generation AI suite for image, video, and 4D content generation. Built upon cutting-edge diffusion models, MemeFlux provides powerful tools for creating high-quality media with ease.
