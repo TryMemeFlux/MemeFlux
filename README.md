@@ -2,7 +2,11 @@
   <img src="logo11.jpg" alt="MemeFlux Logo" width="40%">
 </p>
 
-# MemeFlux
+<h1 align="center">MemeFlux</h1>
+
+<p align="center">
+  <a href="https://x.com/TryMemeFlux">🔗 Follow us on Twitter (X)</a>
+</p>
 
 # MemeFlux: Advanced AI Generative Models
 
