@@ -1,0 +1,4 @@
+gradio
+google-generativeai
+fal_client
+pydantic
